@@ -1,0 +1,12 @@
+# Dépendances Node
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Rapports de couverture de tests (Jest)
+coverage/
+
+# Fichiers d'environnement / variables locales
+.env
